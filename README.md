@@ -65,15 +65,11 @@ list_of_nums = eval(input())
 insertion_sort(list_of_nums)
 
 
-
-
-
 ```
 
 ## Output:
 i)	#Selection Sort
 ![image](https://github.com/lokeshnarayanan/Sorting-Algorithm/assets/119393019/e727c69d-49f4-4c33-a052-f73c454eb6c6)
-
 ii)	#Insertion Sort
 ![image](https://github.com/lokeshnarayanan/Sorting-Algorithm/assets/119393019/d9b1da93-367b-4689-aad9-ccf2ecdcabb1)
 
